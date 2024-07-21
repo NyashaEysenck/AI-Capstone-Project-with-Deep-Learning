@@ -49,7 +49,7 @@ Run the notebooks in order to reproduce the results:
 
 ## Results
 
-The comparison between the ResNet and VGG models shows that both models achieve high accuracy, with the ResNet model slightly outperforming the VGG model.
+The comparison between the ResNet and VGG models shows that both models achieve high accuracy, with the VGG model slightly outperforming the Resnet model.
 
 ## Conclusion
 
