@@ -36,7 +36,7 @@ pip install tensorflow keras numpy pandas matplotlib
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/AI-Capstone-Project.git
+git clone https://github.com/NyashaEysenck/AI-Capstone-Project.git
 cd AI-Capstone-Project
 ```
 
